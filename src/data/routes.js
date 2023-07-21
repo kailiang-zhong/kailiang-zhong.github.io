@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: "Kailiang Zhong",
+    label: 'Kailiang Zhong',
     path: '/',
   },
   {
@@ -12,10 +12,12 @@ const routes = [
     label: 'Resume',
     path: '/resume',
   },
-//  {
-//    label: 'Projects',
-//    path: '/projects',
-//  },
+  /*
+  {
+    label: 'Projects',
+    path: '/projects',
+  },
+  */
   {
     label: 'Stats',
     path: '/stats',

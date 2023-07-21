@@ -28,7 +28,7 @@ jobs:
         # This is set automatically by github
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-          git config user.name "Automated"
-          git config user.email "actions@users.noreply.github.com"
-          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/mldangelo/personal-site.git
+          git config user.name "kailiang-zhong"
+          git config user.email "brice.zhong@gmail.com"
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/kailiang-zhong/personal-site.git
           npm run deploy
