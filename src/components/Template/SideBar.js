@@ -12,8 +12,9 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Kailiang Zhong</h2>
+        <h3>Kailiang Zhong（钟锴亮）</h3>
         <p><a href="mailto:brice.zhong@gmail.com">brice.zhong@gmail.com</a></p>
+        <ContactIcons />
       </header>
     </section>
 
@@ -30,7 +31,6 @@ const SideBar = () => (
     </section>
 
     <section id="footer">
-      <ContactIcons />
       <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
     </section>
   </section>
