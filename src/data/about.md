@@ -2,7 +2,7 @@
 # Intro
 - I'm a algorithm engineer and my main work experience in recommendation system and uplift modeling.
 - I worked at Tencent before and now at Alibaba.
-- SIGKDD'22 Conference Full Paper (first author) - [DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect](https://github.com/kailiang-zhong/DESCN).
+- SIGKDD'22 Conference Full Paper (first author) - [DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect](https://arxiv.org/abs/2207.09920).
 - This is my Chinese technology blog, [click here](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts)
 
 # Some history
