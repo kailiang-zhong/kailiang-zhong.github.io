@@ -16,6 +16,9 @@ const SideBar = () => (
         <p><a href="mailto:brice.zhong@gmail.com">brice.zhong@gmail.com</a></p>
         <ContactIcons />
       </header>
+      <Link to="/" className="logo">
+        <img src={`${PUBLIC_URL}/images/wx_official_account.jpeg`} alt="" />
+      </Link>
     </section>
 
     <section className="blurb">
