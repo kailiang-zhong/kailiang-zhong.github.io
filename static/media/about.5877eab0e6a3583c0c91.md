@@ -1,5 +1,7 @@
 
 # Intro
+- 我是一个算法工程，主要从事于uplift建模/因果推断/推荐系统相关工作。
+
 - I'm a algorithm engineer and my main work experience is related to recommendation system and uplift modeling.
 - I am currently working at Alibaba（阿里巴巴） and have also worked at Tencent（腾讯） before.
 - SIGKDD'22 Conference Full Paper (first author) - [DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect](https://arxiv.org/abs/2207.09920).
