@@ -4,6 +4,7 @@
 - 2022年在SIGKDD 会议（简称KDD）发表长论文（第一作者）《[DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect](https://arxiv.org/abs/2207.09920)》.
 - 页面中出现的二维码是我的个人公众号：BR的纸飞机。平时会分享一些技术文章和思考在公众号和[知乎](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts)，欢迎朋友们一起交流学习。
 
+[EN]
 - I'm a algorithm engineer and my main work experience is related to recommendation system and uplift modeling.
 - I am currently working at Alibaba（阿里巴巴） and have also worked at Tencent（腾讯） before.
 - SIGKDD'22 Conference Full Paper (first author) - [DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect](https://arxiv.org/abs/2207.09920).
