@@ -19,7 +19,9 @@ const work = [
     startDate: '2022-02-24',
     summary: 'Building an intelligent marketing algorithm system for Lazada',
     highlights: [
-      '',
+      'Lazada',
+      'E-commerce',
+      'Vouchers',
     ],
   },
   {
@@ -27,7 +29,20 @@ const work = [
     position: 'Algorithm Engineer',
     url: 'https://www.tencent.com/en-us/',
     startDate: '2017-01-17',
+    endDate: '2020-02-24',
     summary: 'Be responsible for building a recommendation system for NOW, a live streaming app.',
+    highlights: [
+      'recommendation system',
+      'QQ',
+    ],
+  },
+  {
+    name: 'Manto',
+    position: 'Algorithm Engineer',
+    url: 'https://www.tencent.com/en-us/',
+    startDate: '2015-07-01',
+    endDate: '2017-01-10',
+    summary: 'Be responsible for building a DSP system and DMP system for AD.',
     highlights: [
       '',
     ],
