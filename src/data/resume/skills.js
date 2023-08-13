@@ -11,7 +11,7 @@ const skills = [
   },
   {
     title: 'Hive',
-    competency: 4,
+    competency: 5,
     category: ['Databases', 'Tools'],
   },
   {
@@ -21,7 +21,7 @@ const skills = [
   },
   {
     title: 'SQL',
-    competency: 4,
+    competency: 5,
     category: ['Databases', 'Languages'],
   },
   {
@@ -41,17 +41,17 @@ const skills = [
   },
   {
     title: 'Numpy',
-    competency: 3,
+    competency: 5,
     category: ['Data Science', 'Data Engineering', 'Python', 'ML Engineering'],
   },
   {
     title: 'Tensorflow',
-    competency: 3,
+    competency: 4,
     category: ['Deep Learning', 'Python'],
   },
   {
     title: 'PyTorch',
-    competency: 3,
+    competency: 4,
     category: ['Deep Learning', 'Python'],
   },
   {
@@ -91,11 +91,17 @@ const skills = [
   },
   {
     title: 'Scikit-Learn',
-    competency: 4,
+    competency: 5,
     category: ['Data Engineering', 'ML Engineering', 'Python'],
   },
   {
     title: 'Spark',
+    competency: 2,
+    category: ['Data Engineering', 'ML Engineering'],
+  },
+
+  {
+    title: 'Storm',
     competency: 2,
     category: ['Data Engineering', 'ML Engineering'],
   },
