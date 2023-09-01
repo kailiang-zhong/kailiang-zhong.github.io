@@ -1,6 +1,6 @@
 
 # 简介｜Intro
-- 我是一个算法工程，主要从事于uplift建模/因果推断/推荐系统相关工作。现在阿里巴巴集团工作负责Uplift模型/用户定价/智能营销相关工作，之前在腾讯也做过视频/直播内容推荐。刚毕业的时候，在一个中小企业做过DSP广告相关业务，负责点击率预估。
+- 我是一个算法工程，主要从事于uplift建模/因果推断/推荐系统相关工作。现在阿里巴巴集团工作负责Uplift模型/因果推断/用户定价/智能营销/量价模型相关工作，之前在腾讯也做过视频/直播内容推荐。刚毕业的时候，在一个中小企业做过DSP广告相关业务，负责点击率预估。
 - 2022年在SIGKDD 会议（简称KDD）发表长论文（第一作者）《[DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect](https://arxiv.org/abs/2207.09920)》.
 - 页面中出现的二维码是我的个人公众号：BR的纸飞机。平时会分享一些技术文章和思考在公众号和[知乎](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts)，欢迎朋友们一起交流学习。
 
@@ -11,7 +11,9 @@
 - This is my Chinese technology blog, [click here](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts).
 
 #一些故事｜ Some history
-- 关于我是如何入门机器学习：在2013年的时候，忘记了什么缘由，我接触到了 [Coursera](https://www.coursera.org) 并且学习了台湾大学[林轩田教授](https://www.coursera.org/instructor/htlin)的两门课程[《机器学习基石》](https://www.coursera.org/instructor/htlin)、[《机器学习技法》](https://www.coursera.org/learn/machine-learning-techniques)。当时我大三，这两门课程对于当时的我来说还是有点困难的，庆幸的是，有个叫 Beader 的网友，也在学习这两门课， [Beader](https://beader.me)鼓励着我并且时常与我讨论课堂知识和作业，让我跟上了课程并且完成作业拿到了结业证书。Beader当时在台湾读研究生，我们上完课后参加了Kaggle的PAKDD比赛 以及2014年阿里巴巴第一届天池大数据竞赛，后来获得什么名次忘记了，只记得当时我们队有三个人，另一个是他的女同学，后来她们在一起了，后来她们结婚了：）
+- 关于我是如何入门机器学习：在2013年的时候，忘记了什么缘由，我接触到了 [Coursera](https://www.coursera.org) 并且学习了台湾大学[林轩田教授](https://www.coursera.org/instructor/htlin)的两门课程[《机器学习基石》](https://www.coursera.org/instructor/htlin)、[《机器学习技法》](https://www.coursera.org/learn/machine-learning-techniques)。当时我大三，这两门课程对于当时的我来说还是有点困难的，庆幸的是，有个叫 Beader 的网友，也在学习这两门课， [Beader](https://beader.me)鼓励着我并且时常与我讨论课堂知识和作业，让我跟上了课程并且完成作业拿到了结业证书。Beader当时在台湾读研究生，我们上完课后参加了Kaggle的PAKDD比赛(取得了top5%) 以及2014年阿里巴巴第一届天池大数据竞赛，后来获得什么名次忘记了（好像是78？总共七千多支队伍），只记得当时我们队有三个人，另一个是他的女同学。后来，他们在一起了，再后来，她们结婚了：）
+
+- 2015年 参加了第二届阿里天池大数据竞赛--阿里移动推荐算法，队名Wonder， 排名 37/7186 。
 
 - 2019年去了新疆环天山山脉自驾，在安集海大峡谷看过如水彩画般的河谷，在独库公路一日看过四季，风景很美，我以后还会再去新疆。
 
