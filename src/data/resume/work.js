@@ -13,11 +13,11 @@
  */
 const work = [
   {
-    name: 'Alibaba Group',
+    name: 'Alibaba Group -- LAZADA',
     position: 'Algorithm Engineer',
     url: 'https://smileidentity.com',
     startDate: '2022-02-24',
-    summary: '负责构建智能营销系统，负责电商平台优惠券发放，在给定预算下最大化增量收益。 -[EN] Building an intelligent marketing algorithm system for Lazada',
+    summary: '负责构建智能营销系统，负责 Lazada 电商平台优惠券发放，在给定预算下最大化增量收益。 -[EN] Building an intelligent marketing algorithm system for Lazada',
     highlights: [
       '算法服务系统搭建。',
       '负责Uplift建模、用户定价工作，提高新人券、品类券、CLM券发放效率。',
