@@ -23,7 +23,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Kailiang Zhong（钟锴亮）. I am worked at
+      <p>Hi, I&apos;m Kailiang Zhong（钟锴亮）. I work in
         {' '}<a href="https://www.alibabagroup.com/">Alibaba Group</a> as a algorithm engineer.
       </p>
       <ul className="actions">
