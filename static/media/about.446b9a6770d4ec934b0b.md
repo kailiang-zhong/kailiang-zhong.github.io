@@ -6,7 +6,7 @@
 
 [EN]
 - I'm a algorithm engineer and my main work experience is related to recommendation system and uplift modeling.
-- I am currently working at Alibaba（阿里巴巴） and have also worked at Tencent（腾讯） before.
+- I am currently working at Alibaba（阿里巴巴） and I used to work in Tencent（腾讯） before.
 - SIGKDD'22 Conference Full Paper (first author) - [DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect](https://arxiv.org/abs/2207.09920).
 - This is my Chinese technology blog, [click here](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts).
 
