@@ -2,7 +2,8 @@
 # 简介｜Intro
 - 我是一个算法工程，主要从事于uplift建模/因果推断/推荐系统相关工作。现在阿里巴巴集团工作负责Uplift模型/因果推断/用户定价/智能营销/量价模型相关工作，之前在腾讯也做过视频/直播内容推荐。刚毕业的时候，在一个中小企业做过DSP广告相关业务，负责点击率预估。
 - 2022年在SIGKDD 会议（简称KDD）发表长论文（第一作者）《[DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect](https://arxiv.org/abs/2207.09920)》.
-- 页面中出现的二维码是我的个人公众号：BR的纸飞机。平时会分享一些技术文章和思考在公众号和[知乎](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts)，欢迎朋友们一起交流学习。
+- 页面中出现的二维码是我的个人公众号：BR的纸飞机。平时会分享一些技术文章和思考在[公众号](https://mp.weixin.qq.com/s?__biz=MzkxMjUwODc2NA==&mid=2247483722&idx=1&sn=4d3c81c10032acfc73c8ea57209909d0&scene=19#wechat_redirect)和[知乎](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts)，欢迎朋友们一起交流学习。
+- [技术博客](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts)，欢迎 交流｜合作。
 
 [EN]
 - I'm a algorithm engineer and my main work experience is related to recommendation system and uplift modeling.
