@@ -1,8 +1,8 @@
 const skills = [
   {
-    title: 'Causal Inference/Uplift modeling',
+    title: 'Causal Inference/Uplift Modeling',
     competency: 5,
-    category: ['CATE/ITE/ATE', 'Pytorch', 'Tensorflow', 'Python', 'Deep Learning'],
+    category: ['Pytorch', 'Tensorflow', 'Python', 'Deep Learning', 'Causal Inference/Uplift Modeling'],
   },
   {
     title: 'Bash',
@@ -23,6 +23,11 @@ const skills = [
     title: 'SQL',
     competency: 5,
     category: ['Databases', 'Languages'],
+  },
+  {
+    title: 'Java',
+    competency: 4,
+    category: ['Languages', 'Java'],
   },
   {
     title: 'Redis',

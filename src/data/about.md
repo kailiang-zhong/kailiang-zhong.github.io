@@ -11,7 +11,7 @@
 - This is my Chinese technology blog, [click here](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts).
 
 #一些故事｜ Some history
-- 关于我是如何入门机器学习：在2013年的时候，忘记了什么缘由，我接触到了 [Coursera](https://www.coursera.org) 并且学习了台湾大学[林轩田教授](https://www.coursera.org/instructor/htlin)的两门课程[《机器学习基石》](https://www.coursera.org/instructor/htlin)、[《机器学习技法》](https://www.coursera.org/learn/machine-learning-techniques)。当时我大三，这两门课程对于当时的我来说还是有点困难的，庆幸的是，有个叫 Beader 的网友，也在学习这两门课， [Beader](https://beader.me)鼓励着我并且时常与我讨论课堂知识和作业，让我跟上了课程并且完成作业拿到了结业证书。Beader当时在台湾读研究生，我们上完课后参加了Kaggle的PAKDD比赛(取得了top5%) 以及2014年阿里巴巴第一届天池大数据竞赛，后来获得什么名次忘记了（好像是78？总共七千多支队伍），只记得当时我们队有三个人，另一个是他的女同学。后来，他们在一起了，再后来，她们结婚了：）
+- 关于我是如何入门机器学习：在2013年的时候，忘记了什么缘由，我接触到了 [Coursera](https://www.coursera.org) 并且学习了台湾大学[林轩田教授](https://www.coursera.org/instructor/htlin)的两门课程[《机器学习基石》](https://www.coursera.org/instructor/htlin)、[《机器学习技法》](https://www.coursera.org/learn/machine-learning-techniques)。当时我大三，这两门课程对于当时的我来说还是有点困难的，庆幸的是，有个叫 Beader 的网友，也在学习这两门课， [Beader](https://beader.me)鼓励着我并且时常与我讨论课堂知识和作业，让我跟上了课程并且完成作业拿到了结业证书。Beader当时在台湾读研究生，我们上完课后参加了Kaggle的PAKDD比赛(取得了top5%) 以及**2014年阿里巴巴第一届天池大数据竞赛**，后来获得什么名次忘记了（好像是78？总共七千多支队伍），只记得当时我们队有三个人，另一个是他的女同学。后来，他们在一起了，再后来，她们结婚了：）
 
 - 2015年 参加了第二届阿里天池大数据竞赛--阿里移动推荐算法，队名Wonder， 排名 37/7186 。
 
@@ -21,11 +21,13 @@
 
 - 2020年十一国庆节，我去过了四川自驾，走了川西大环线，因为新冠原因色达佛教寺不开放，就从炉霍县走中国熊猫大道南下直接去稻城亚丁。318进，317出，看见了无数路基坍塌、山体滑坡、落石，在熊猫大道走过危桥，去理塘的路上走过了天路十八弯。在去稻城的路上，赶夜路，在中途一段山路停留休息时，我看到了以往从未见过的清澈夜空，感觉自己同时被夜和银河包围了，如果只看天上，甚至会有种置身于宇宙的错觉。事后我查过才知道，那是一个光污染为0的地方。我永远不会忘记那样的清澈夜空。旅程的最远点是稻城亚丁，第一次听说这个地方是张嘉佳同名小说改编的电影《从你的全世界路过》，那真是一个童话般的世界，伴随山间清爽的风，穿过有牛马嬉耍的草甸，远处有雪山，融化的冰水借道小溪、浅谈灌溉一切。在稻城亚迪里，感觉一切的生灵都是幸福的。
 
+- 现在在练习英文口语中，欢迎同志一起交流学习，有好的资源或方法也欢迎推荐，不甚感激。
+
 
 [EN]
 
 - How I got started with machine learning: In 2013, I forgot why, I came across Coursera and took two courses by Professor Lin Hsuan-Tien from National Taiwan University: "Machine Learning Foundations" and "Machine Learning Techniques". At that time, I was a junior in college and found these courses challenging. Fortunately, there was a friend I met on the internet named Beader who was also taking these courses. Beader encouraged me and often discussed class knowledge and assignments with me, which helped me keep up with the courses and complete the homework to earn a certificate of completion. Beader was a graduate student 
-and was pursuing a master's degree in Taiwan at the time. After we finished the courses, we participated in the PAKDD competition on Kaggle and Alibaba's first Tianchi Big Data Competition in 2014. I don't remember what place we got, but I do remember that our team had three people, including Beader's female classmate who later became his girlfriend and then his wife haha :)
+and was pursuing a master's degree in Taiwan at the time. After we finished the courses, we participated in the PAKDD competition on Kaggle and Alibaba's first Tianchi Big Data Competition in 2014. I don't remember what place we got, but I do remember that our team had three people, including Beader's female classmate who later became his girlfriend and then his wife haha :-)
 
 - In 2019, I went on a self-driving trip to the Tianshan Mountains in Xinjiang. I saw a river valley that looked like a watercolor painting in the Anjihai Grand Canyon and experienced all four seasons in one day on the Karakoram Highway. The scenery was so beautiful, and I plan to visit Xinjiang again in the future.
 
