@@ -16,7 +16,7 @@ const work = [
     name: 'Alibaba Group -- LAZADA',
     position: 'Algorithm Engineer',
     url: 'https://smileidentity.com',
-    startDate: '2022-02-24',
+    startDate: '2020-02',
     summary: '负责构建智能营销系统支持 Lazada 电商平台优惠券发放，在给定预算下最大化增量收益。 -[EN] Building an intelligent marketing algorithm system for Lazada',
     highlights: [
       '算法服务系统搭建',
@@ -33,8 +33,8 @@ const work = [
     name: 'Tencent',
     position: 'Algorithm Engineer',
     url: 'https://www.tencent.com/en-us/',
-    startDate: '2017-01-17',
-    endDate: '2020-02-24',
+    startDate: '2017-01',
+    endDate: '2020-02',
     summary: '负责腾讯直播APP-NOW直播的内容推荐、反作弊、短视频推荐、内容理解挖掘. -[EN]Be responsible for building a recommendation system for NOW, a live streaming app.',
     highlights: [
       '推荐系统｜recommendation system',
@@ -52,8 +52,8 @@ const work = [
     name: 'Manto',
     position: 'Algorithm Engineer',
     url: 'https://www.tencent.com/en-us/',
-    startDate: '2015-07-01',
-    endDate: '2017-01-10',
+    startDate: '2015-07',
+    endDate: '2017-01',
     summary: '负责构建DSP广告系统，构建点击率模型实时出价，为广告主采购广告提高效率。-[EN] Be responsible for building a DSP system and DMP system for AD.',
     highlights: [
       '点击率预估模型',
