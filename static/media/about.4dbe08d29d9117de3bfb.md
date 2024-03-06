@@ -14,15 +14,15 @@
 #一些故事｜ Some history
 - 关于我是如何入门机器学习：在2013年的时候，忘记了什么缘由，我接触到了 [Coursera](https://www.coursera.org) 并且学习了台湾大学[林轩田教授](https://www.coursera.org/instructor/htlin)的两门课程[《机器学习基石》](https://www.coursera.org/instructor/htlin)、[《机器学习技法》](https://www.coursera.org/learn/machine-learning-techniques)。当时我大三，这两门课程对于当时的我来说还是有点困难的，庆幸的是，有个叫 Beader 的网友，也在学习这两门课， [Beader](https://beader.me)鼓励着我并且时常与我讨论课堂知识和作业，让我跟上了课程并且完成作业拿到了结业证书。Beader当时在台湾读研究生，我们上完课后参加了Kaggle的PAKDD比赛(取得了top5%) 以及**2014年阿里巴巴第一届天池大数据竞赛**，后来获得什么名次忘记了（好像是78？总共七千多支队伍），只记得当时我们队有三个人，另一个是他的女同学。后来，他们在一起了，再后来，她们结婚了：）
 
-- 2015年 参加了第二届阿里天池大数据竞赛--阿里移动推荐算法，队名Wonder， 排名 37/7186 。
+- 2015年 参加了第二届阿里天池大数据竞赛--阿里移动推荐算法，队名Wonder，排名 37/7186 。
 
 - 2019年去了新疆环天山山脉自驾，在安集海大峡谷看过如水彩画般的河谷，在独库公路一日看过四季，风景很美，我以后还会再去新疆。
 
-- 2020年春节前夕，我打电话跟我妈说过年想出去旅游不回家了，原本以为她会训我一顿，没想到她说：刚好，我也想出去走走呢。 于是，2020年的春节，我决定带爸妈去了新加坡-马来西亚旅游过年。出发当天，正是疫情爆发前夕，飞机刚在新加坡落地，就得知消息，国内新冠疫情爆发了，我们如果晚出半天就出不来了。这次旅行创造了很多美好回忆，我第一次在国外过年，我爸妈也是。我们在著名马六甲度过了年三十晚。
+- 2020年春节前夕，我打电话跟我妈说过年想出去旅游不回家了，原本以为她会规训我一顿，没想到她说：刚好，我也想出去走走呢。 于是，2020年的春节，我决定带爸妈去了新加坡-马来西亚旅游过年。出发当天，正是疫情爆发前夕，飞机刚在新加坡落地，就得知消息，国内新冠疫情爆发了，我们如果晚出半天就出不来了。这次旅行创造了很多美好回忆，我第一次在国外过年，我爸妈也是。我们在马六甲度过了那年的年除夕夜。
 
 - 2020年十一国庆节，我去过了四川自驾，走了川西大环线，因为新冠原因色达佛教寺不开放，就从炉霍县走中国熊猫大道南下直接去稻城亚丁。318进，317出，看见了无数路基坍塌、山体滑坡、落石，在熊猫大道走过危桥，去理塘的路上走过了天路十八弯。在去稻城的路上，赶夜路，在中途一段山路停留休息时，我看到了以往从未见过的清澈夜空，感觉自己同时被夜和银河包围了，如果只看天上，甚至会有种置身于宇宙的错觉。事后我查过才知道，那是一个光污染为0的地方。我永远不会忘记那样的清澈夜空。旅程的最远点是稻城亚丁，第一次听说这个地方是张嘉佳同名小说改编的电影《从你的全世界路过》，那真是一个童话般的世界，伴随山间清爽的风，穿过有牛马嬉耍的草甸，远处有雪山，融化的冰水借道小溪、浅谈灌溉一切。在稻城亚迪里，感觉一切的生灵都是幸福的。
 
-- **现在在练习英文口语中，欢迎同志一起交流学习，有好的资源或方法也欢迎推荐，不甚感激。**
+- **现在在努力练习英文口语，欢迎同志一起交流学习，有好的资源或方法也欢迎推荐，不甚感激。**
 
 
 [EN]
@@ -40,15 +40,14 @@ and was pursuing a master's degree in Taiwan at the time. After we finished the 
 
 # 爱好｜ I like
 
-- Running
 - Swimming
 - [知乎](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts)
 - Music
 - Photography
 
-# 去过的地方｜Travel / Geography
+# 去过的地方｜Travel ｜ Geography
 
-- I am from originally from Guangdong province, China.
+- I was born in Guangdong province and I am a native Cantonese.
 - In 2020, I visited: Singapore, Malaysia.
 - In 2018, I visited: Thailand.
 
@@ -59,5 +58,6 @@ and was pursuing a master's degree in Taiwan at the time. After we finished the 
 - doing better.
 
 # 友情链接｜Websites from people I admire
-
+- [Dugang Liu (刘杜钢)](https://dgliu.github.io/)
 - [Beader Chen](https://beader.me/) 
+
