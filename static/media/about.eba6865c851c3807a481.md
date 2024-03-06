@@ -9,7 +9,7 @@
 - I'm a algorithm engineer and my main work experience is related to recommendation system and uplift modeling.
 - I am currently working at Alibaba（阿里巴巴） and I used to work in Tencent（腾讯） before.
 - SIGKDD'22 Conference Full Paper (first author) - [DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect](https://arxiv.org/abs/2207.09920).
-- This is my Chinese technology blog, [click here](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts).
+- This is my technology blog written in Chinese. [click here](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts).
 
 #一些故事｜ Some history
 - 关于我是如何入门机器学习：在2013年的时候，忘记了什么缘由，我接触到了 [Coursera](https://www.coursera.org) 并且学习了台湾大学[林轩田教授](https://www.coursera.org/instructor/htlin)的两门课程[《机器学习基石》](https://www.coursera.org/instructor/htlin)、[《机器学习技法》](https://www.coursera.org/learn/machine-learning-techniques)。当时我大三，这两门课程对于当时的我来说还是有点困难的，庆幸的是，有个叫 Beader 的网友，也在学习这两门课， [Beader](https://beader.me)鼓励着我并且时常与我讨论课堂知识和作业，让我跟上了课程并且完成作业拿到了结业证书。Beader当时在台湾读研究生，我们上完课后参加了Kaggle的PAKDD比赛(取得了top5%) 以及**2014年阿里巴巴第一届天池大数据竞赛**，后来获得什么名次忘记了（好像是78？总共七千多支队伍），只记得当时我们队有三个人，另一个是他的女同学。后来，他们在一起了，再后来，她们结婚了：）
