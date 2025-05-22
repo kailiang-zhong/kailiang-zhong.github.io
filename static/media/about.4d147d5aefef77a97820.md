@@ -2,7 +2,7 @@
 # 简介｜Intro
 - 我是一个算法工程，主要从事于uplift建模/因果推断/推荐系统相关工作。现在在字节跳动（Btyedance）负责抖音支付增值算法/营销算法相关工作。 之前在阿里巴巴、腾讯工作，负责Uplift模型/因果推断/用户定价/视频、直播内容推荐等相关工作。
 - 擅长各类场景、激励、用户生命周期的uplift建模、运筹决策以及相应的营销算法工作。
-- 论文发表：SIGKDD（简称KDD）2022《[DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect](https://arxiv.org/abs/2207.09920)》（一作）.
+- 论文发表：SIGKDD（简称KDD）2022《[DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect](https://arxiv.org/abs/2207.09920)》（一作）
 - 页面中出现的二维码是我的个人公众号：BR的纸飞机。平时会分享一些技术文章和思考在[公众号](https://mp.weixin.qq.com/s?__biz=MzkxMjUwODc2NA==&mid=2247483722&idx=1&sn=4d3c81c10032acfc73c8ea57209909d0&scene=19#wechat_redirect)和[知乎](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts)，欢迎朋友们一起交流学习。
 - [技术博客](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts)，欢迎 交流｜合作。
 
@@ -12,7 +12,7 @@
 - This is my Chinese technology blog, [click here](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts).
 
 #一些故事｜ Some history
-- 关于我是如何入门机器学习：在2013年的时候，忘记了什么缘由，我接触到了 [Coursera](https://www.coursera.org) 并且学习了台湾大学[林轩田教授](https://www.coursera.org/instructor/htlin)的两门课程[《机器学习基石》](https://www.coursera.org/instructor/htlin)、[《机器学习技法》](https://www.coursera.org/learn/machine-learning-techniques)。当时我大三，这两门课程对于当时的我来说还是有点困难的，庆幸的是，有个叫 Beader 的网友，也在学习这两门课， [Beader](https://beader.me)鼓励着我并且时常与我讨论课堂知识和作业，让我跟上了课程并且完成作业拿到了结业证书。Beader当时在台湾读研究生，我们上完课后参加了Kaggle的PAKDD比赛(取得了top5%) 以及**2014年阿里巴巴第一届天池大数据竞赛**，后来获得什么名次忘记了（好像是78？总共七千多支队伍），只记得当时我们队有三个人，另一个是他的女同学。后来，他们在一起了，再后来，她们结婚了：）
+- 关于我是如何入门机器学习：在2013年的时候，忘记了什么缘由，我接触到了 [Coursera](https://www.coursera.org) 并且学习了台湾大学[林轩田教授](https://www.coursera.org/instructor/htlin)的两门课程[《机器学习基石》](https://www.coursera.org/instructor/htlin)、[《机器学习技法》](https://www.coursera.org/learn/machine-learning-techniques)。当时我大三，这两门课程对于当时的我来说还是有点困难的，庆幸的是，有个叫 Beader 的网友，也在学习这两门课， [Beader](https://beader.me)鼓励着我并且时常与我讨论课堂知识和作业，让我跟上了课程并且完成作业拿到了结业证书。Beader当时在台湾读研究生，我们上完课后参加了Kaggle的PAKDD比赛(取得了top5%) 以及**2014年阿里巴巴第一届天池大数据竞赛**，后来获得记得是排名78？，总共七千多支队伍。当时我们队有三个人，另一个是他的女同学。后来，他们在一起了，再后来，她们结婚了：）
 
 - 2015年 参加了第二届阿里天池大数据竞赛--阿里移动推荐算法，队名Wonder， 排名 37/7186 。
 
