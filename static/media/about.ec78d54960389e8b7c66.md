@@ -7,6 +7,8 @@
 - 页面中出现的二维码是我的个人公众号：BR的纸飞机。平时会分享一些技术文章和思考在[公众号](https://mp.weixin.qq.com/s?__biz=MzkxMjUwODc2NA==&mid=2247483722&idx=1&sn=4d3c81c10032acfc73c8ea57209909d0&scene=19#wechat_redirect)和[知乎](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts)，欢迎朋友们一起交流学习。
 - [技术博客](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts)，欢迎 交流｜合作。
 
+![](https://lemoner.me/images/cloud.jpg)
+
 [EN]
 - I am an algorithm engineer specializing in uplift modeling, causal inference, and recommendation systems. Currently, I work at ByteDance, where I am dedicated to the user growth algorithm for Douyin Pay. Previously, I was at Alibaba and Tencent, working on uplift models, causal inference, user pricing and video/live-streaming content recommendation.
 - SIGKDD'22 Conference Full Paper (first author) - [DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect](https://arxiv.org/abs/2207.09920).
