@@ -9,9 +9,9 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://lemoner.me/images/cloud.jpg" style="max-width: 90%;" alt="虚荣浮云" >
-</div>
+</div> -->
 
 [EN]
 - I am an algorithm engineer specializing in uplift modeling, causal inference, and recommendation systems. Currently, I work at ByteDance, where I am dedicated to the user growth algorithm for Douyin Pay. Previously, I was at Alibaba and Tencent, working on uplift models, causal inference, user pricing and video/live-streaming content recommendation.
