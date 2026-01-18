@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkKailiang_s_site=self.webpackChunkKailiang_s_site||[]).push([[27],{27:(e,s,a)=>{e.exports=a.p+"static/media/about.26eb5265cea4b759c755.md"}}]);
