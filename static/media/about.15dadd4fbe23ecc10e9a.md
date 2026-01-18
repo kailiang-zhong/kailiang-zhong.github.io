@@ -63,4 +63,4 @@
 # 友情链接｜Links
 
 - [Beader Chen](https://beader.me/) — My friend and mentor from the early days of my ML journey.
-- [Gugang Liu](https://dgliu.github.io/)  
+- [Dugang Liu](https://dgliu.github.io/)  
