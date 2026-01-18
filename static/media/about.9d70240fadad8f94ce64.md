@@ -2,8 +2,8 @@
 
 - 我是一个算法工程师，主要从事于 Uplift 建模、因果推断、推荐系统相关工作。现在在字节跳动（Bytedance）负责抖音支付用户增长/营销算法相关工作。 之前在阿里国际-Lazada 负责各类优惠券营销算法/用户定价，再之前在腾讯负责直播推荐。
 - 擅长各类场景、激励、用户生命周期的 Uplift 建模、运筹决策以及相应的营销算法工作。
-- 论文发表：SIGKDD（简称 KDD）2022《[**DESCN**: Deep Entire Space Cross Networks for Individual Treatment Effect](https://arxiv.org/abs/2207.09920)》（一作）
-- 专利: 《[基于 LPA 算法对主播进行反作弊识别](http://epub.cnipa.gov.cn/patent/CN110196921A)》
+- **论文发表**：SIGKDD（简称 KDD）2022《[**DESCN**: Deep Entire Space Cross Networks for Individual Treatment Effect](https://arxiv.org/abs/2207.09920)》（一作）
+- **专利**: 《[基于 LPA 算法对主播进行反作弊识别](http://epub.cnipa.gov.cn/patent/CN110196921A)》
 - 页面中出现的二维码是我的个人公众号：BR 的纸飞机。平时会分享一些技术文章和思考在[**公众号**](https://mp.weixin.qq.com/s?__biz=MzkxMjUwODc2NA==&mid=2247483722&idx=1&sn=4d3c81c10032acfc73c8ea57209909d0&scene=19#wechat_redirect)和[**知乎**](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts)，欢迎朋友们一起交流学习。
 - [**技术博客**](https://www.zhihu.com/people/zhong-xian-sheng-4-44/posts)，欢迎交流｜合作。
 
